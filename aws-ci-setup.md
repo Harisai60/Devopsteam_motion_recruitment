@@ -1,4 +1,4 @@
-Process setup for AWS-CI
+** Process setup for AWS-CI
 
 1) Open Instances in the platform.
 2) Connect to the instance.
