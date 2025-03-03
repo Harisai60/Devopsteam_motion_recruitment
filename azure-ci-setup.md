@@ -1,2 +1,0 @@
-**Process of setuping Jenkins**
-
